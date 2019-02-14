@@ -47,3 +47,6 @@ Corridor/Library/metadata/
 *.log
 *.dwlt
 LoL2Project/Library/EditorInstance.json
+LoL2Project/Library
+*.lck
+*.lck.meta
